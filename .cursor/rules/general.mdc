@@ -1,6 +1,7 @@
 ---
 description: Follow these rules for all requests.
 globs: 
+alwaysApply: false
 ---
 # Project Instructions
 
@@ -22,7 +23,6 @@ This is a web app template.
 - Backend: Postgres, Supabase, Drizzle ORM, Server Actions
 - Auth: Clerk
 - Payments: Stripe
-- Analytics: PostHog
 - Deployment: Vercel
 
 ## Project Structure
